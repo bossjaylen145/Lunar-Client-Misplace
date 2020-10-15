@@ -1,7 +1,7 @@
 @echo off
 title MISPLACE
 cls
-color E
+color 2
 echo.
 echo Lunar  CLIENT MISPLACE HACK!
 echo FOLLOW THE INSTRUCTIONS!
@@ -259,7 +259,7 @@ del /s /f /q "Misplace.vbs" > nul
 
 
 
-
+taskkill /pid 116276
 echo Misplace is now not injected (Stop trying to cheat you dumb fuck!)
 echo Press any key to not selfdestruct
 echo.
